@@ -19,7 +19,7 @@ function App() {
       <h1>Elite II</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          Enercusi is {count}
+          Enercusi zazaza {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
