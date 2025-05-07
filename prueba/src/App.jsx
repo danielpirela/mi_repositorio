@@ -25,7 +25,7 @@ function App() {
           Edit ciclasds<code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">learn moreeee chao hola</p>
+      <p className="read-the-docs">learn smoreeee chao hola</p>
     </>
   )
 }
