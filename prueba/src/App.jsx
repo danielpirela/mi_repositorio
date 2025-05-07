@@ -22,7 +22,7 @@ function App() {
           Enercusi zazssssssssssssssssazsssza {count}
         </button>
         <p>
-          Edit cicla<code>src/App.jsx</code> and save to test HMR
+          Edit ciclasds<code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
